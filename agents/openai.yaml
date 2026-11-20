@@ -1,0 +1,4 @@
+interface:
+  display_name: "最直白的汇报PPT"
+  short_description: "将资料做成可编辑的汇报PPT，联网查找真实配图并制作照片背景叠化"
+  default_prompt: "使用 $plainspoken-slides，把我提供的资料做成可编辑的汇报PPT，查找有出处的真实图片，并为关键场景加入背景叠化。"
